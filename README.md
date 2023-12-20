@@ -30,7 +30,7 @@ The code uses JavaScript to:
 - Load an image from a provided URL.
 - Measure the time it takes to download the image.
 - Calculate the download speed based on the downloaded image size and time taken.
-- Display the calculated speed in real-time using an animation effect.
+- Display the calculated speed in real-time.
 
 ## Contributions
 
